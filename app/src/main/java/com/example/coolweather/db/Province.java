@@ -6,7 +6,7 @@ import org.litepal.crud.DataSupport;
  * Created by lenovo on 2017/4/3.
  */
 
-public class Provice extends DataSupport {
+public class Province extends DataSupport {
     private int id;
     private String proviceName;
     private int proviceCode;
